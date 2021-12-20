@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6ADA0B33-2019-4594-BA5B-293F9313E65E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "59E95A35-AAB2-4DC5-B313-7E1F477B7024"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D22C91B3-FF49-4FA9-9460-A15928B03695"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoApp/ViewModel/CarViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "checkIFReachedToLastPage(current:total:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0FBE371-627A-47E0-AD25-36EEFB91363F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoApp/ViewModel/CarViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchCars()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4804CA88-0597-47D6-B064-4D9637D6E318"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoAppTests/CarViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "testFetchCarsValidRequestSholdReturnValidResponse()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4804CA88-0597-47D6-B064-4D9637D6E318 - 238cfbd96260655c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;DemoApp.ResponseModel&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DemoAppTests.CarViewModelTests.testFetchCars_valid_request_shold_return_valid_response() -&gt; ()"
+                  moduleName = "DemoAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/somenaths/Documents/Somenath/DemoApp/DemoAppTests/CarViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "4804CA88-0597-47D6-B064-4D9637D6E318 - 238cfbd96260655c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;DemoApp.ResponseModel&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DemoAppTests.CarViewModelTests.testFetchCars_valid_request_shold_return_valid_response() -&gt; ()"
+                  moduleName = "DemoAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/somenaths/Documents/Somenath/DemoApp/DemoAppTests/CarViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "4804CA88-0597-47D6-B064-4D9637D6E318 - 87d5cbbef7847cfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;DemoApp.ResponseModel&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DemoAppTests.CarViewModelTests.testFetchCarsValidRequestSholdReturnValidResponse() -&gt; ()"
+                  moduleName = "DemoAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/somenaths/Documents/Somenath/DemoApp/DemoAppTests/CarViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "4804CA88-0597-47D6-B064-4D9637D6E318 - 87d5cbbef78473c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;DemoApp.ResponseModel&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DemoAppTests.CarViewModelTests.testFetchCarsValidRequestSholdReturnValidResponse() -&gt; ()"
+                  moduleName = "DemoAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/somenaths/Documents/Somenath/DemoApp/DemoAppTests/CarViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72CFEA4E-7693-4587-BC5E-047F87191A02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoAppTests/ManufacturerViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "testFetchManufacturersValidRequestSholdReturnValidResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
